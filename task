@@ -3,4 +3,7 @@ main(){
 sout("apple");
 sout("orange");
 pineapple
+mango
+banana
+pomegranate
 }}
